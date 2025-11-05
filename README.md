@@ -139,7 +139,3 @@ ws.current.onmessage = (event) => setMessages((prev) => [...prev, event.data]);
 
 This project is open-source and available under the **MIT License**.
 Feel free to modify and build upon it for your own use!
-
----
-
-Would you like me to include **username and timestamps support** in this README (with code examples included)?
