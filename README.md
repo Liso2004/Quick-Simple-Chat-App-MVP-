@@ -1,7 +1,3 @@
-Here’s a clean and professional **README.md** file for your project 👇
-
----
-
 # 💬 Quick Simple Chat App (MVP)
 
 A minimal **real-time chat application** built with **React** and **WebSockets**.
